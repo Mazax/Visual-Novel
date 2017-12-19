@@ -1,3 +1,3 @@
 # Visual-Novel
 
-A little visual novel game engine. 
+A little visual novel platform. 
